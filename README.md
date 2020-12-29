@@ -7,8 +7,11 @@
 --------
 ## OBJECTIVES:
   *1. Compare the Total Salary Spent between the World Series Winners and “Losers”
+  
   *2. Do the teams that spend the most, win the most?
+  
   *3. Evaluate spending parameters for the World Series Winners
+  
   *4. Statistical commonalities between World Series Winners
 ---------
 
@@ -29,9 +32,11 @@
 ![alt_text](https://github.com/Krla20/Project1/blob/main/Images/Salary_Spent_Winners_Losers_by_year.png)
 
 * Conclusions:
+      
       * We can conclude:
-        * Some time around 1990 spending became a formidable weapon in the pursuit of a championship
-        * By and large, teams that win the championship are spending more then teams that don’t win the championship
+        - Some time around 1990 spending became a formidable weapon in the pursuit of a championship
+        - By and large, teams that win the championship are spending more then teams that don’t win the championship
+      
       * We cannot conclude:
         * We can’t definitively say that you HAVE to spend more than the league average to win a championship
         * Can’t definitively say that spending more money will GUARANTEE a championship
@@ -47,11 +52,13 @@
 ![alt_text](https://github.com/Krla20/Project1/blob/main/Images/WS_Champs_Top_vs_all_others.png)
 
 * Conclusions:
+        
         * We can conclude:
-          * If an owner is willing to be a top 5 spender, they have about a 50% chance of winning the World Series
+          - If an owner is willing to be a top 5 spender, they have about a 50% chance of winning the World Series
+        
         * We cannot conclude:
-          * Cannot conclude that you have to be a top 5 spender to win
-          * Over half of the winners from 1985-2015 were not top 5 spenders
+          - Cannot conclude that you have to be a top 5 spender to win
+          - Over half of the winners from 1985-2015 were not top 5 spenders
 
 -----------
  *3. Evaluate spencing parameters for the World Series Winners
@@ -68,13 +75,15 @@ $150MM + ($40MM * .79)
  ![alt_text](https://github.com/Krla20/Project1/blob/main/Images/Salary_WS_Winners_STD_from_Mean_Year.png)
  
  * Conclusions:
-        * We can conclude:
-          * Winning teams spend, on average, .79 STD’s above the mean salary
-          * Spending Formula
+       
+       * We can conclude:
+          - Winning teams spend, on average, .79 STD’s above the mean salary
+          - Spending Formula
+        
         * We cannot conclude:
-          * Can’t conclude that spending .79 STD’s above the mean will guarantee a championship
-          * Spending Formula Problems:
-          * How to project Salary Mean and STD in coming years
+          - Can’t conclude that spending .79 STD’s above the mean will guarantee a championship
+          - Spending Formula Problems:
+          - How to project Salary Mean and STD in coming years
 
 -----------
 *4. Statistical commonalities between World Series Winners
