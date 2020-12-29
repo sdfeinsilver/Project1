@@ -26,11 +26,11 @@
  ***
  ## OBJECTIVES VISUALIZATION
  ***
- 1. Compare the Total Salary Spent between the World Series Winners and “Losers”
+ ### 1. Compare the Total Salary Spent between the World Series Winners and “Losers”
 
 ![alt_text](https://github.com/Krla20/Project1/blob/main/Images/Salary_Spent_Winners_Losers_by_year.png)
 
-* Conclusions:
+> * Conclusions:
       
       * We can conclude:
         - Some time around 1990 spending became a formidable weapon in the pursuit of a championship
@@ -40,7 +40,7 @@
         * We can’t definitively say that you HAVE to spend more than the league average to win a championship
         * Can’t definitively say that spending more money will GUARANTEE a championship
 ----------
- 2. Do the teams that spend the most, win the most?
+### 2. Do the teams that spend the most, win the most?
 
 - Analyze further the effect of spending on winning championships
 - How often do teams that are top 5 spenders in the league for that year win the championship
@@ -50,7 +50,7 @@
 
 ![alt_text](https://github.com/Krla20/Project1/blob/main/Images/WS_Champs_Top_vs_all_others.png)
 
-* Conclusions:
+> * Conclusions:
         
         * We can conclude:
           - If an owner is willing to be a top 5 spender, they have about a 50% chance of winning the World Series
@@ -60,7 +60,7 @@
           - Over half of the winners from 1985-2015 were not top 5 spenders
 
 -----------
- 3. Evaluate spending parameters for the World Series Winners
+### 3. Evaluate spending parameters for the World Series Winners
  
  - On average, winners spent .79 STD’s above the mean for that year
     - Spending Formula: Spend Amount($) = Mean Salary + (STD * .79)
@@ -73,7 +73,7 @@ $150MM + ($40MM * .79)
 
  ![alt_text](https://github.com/Krla20/Project1/blob/main/Images/Salary_WS_Winners_STD_from_Mean_Year.png)
  
- * Conclusions:
+> * Conclusions:
        
        * We can conclude:
           - Winning teams spend, on average, .79 STD’s above the mean salary
@@ -85,7 +85,7 @@ $150MM + ($40MM * .79)
           - How to project Salary Mean and STD in coming years
 
 -----------
- 4. Statistical commonalities between World Series Winners
+### 4. Statistical commonalities between World Series Winners
 # NEED TO ADD UPDATED INFO
 
 ----------
