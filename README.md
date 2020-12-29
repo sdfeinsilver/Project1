@@ -21,6 +21,7 @@
   * Limited scope of analysis to more modern era (1985-2015)
   
   Sample DataFrame
+  
  ![alt text](https://github.com/Krla20/Project1/blob/main/Images/1ff44120ab1b151c44a0273583f58291.png)
  ---------
  ***
@@ -30,7 +31,7 @@
 
 ![alt_text](https://github.com/Krla20/Project1/blob/main/Images/Salary_Spent_Winners_Losers_by_year.png)
 
-> * Conclusions:
+#### > * Conclusions:
       
       * We can conclude:
         - Some time around 1990 spending became a formidable weapon in the pursuit of a championship
@@ -50,7 +51,7 @@
 
 ![alt_text](https://github.com/Krla20/Project1/blob/main/Images/WS_Champs_Top_vs_all_others.png)
 
-> * Conclusions:
+#### > * Conclusions:
         
         * We can conclude:
           - If an owner is willing to be a top 5 spender, they have about a 50% chance of winning the World Series
@@ -73,7 +74,7 @@ $150MM + ($40MM * .79)
 
  ![alt_text](https://github.com/Krla20/Project1/blob/main/Images/Salary_WS_Winners_STD_from_Mean_Year.png)
  
-> * Conclusions:
+#### > * Conclusions:
        
        * We can conclude:
           - Winning teams spend, on average, .79 STD’s above the mean salary
