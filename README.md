@@ -4,13 +4,13 @@
 ### Major League Baseball, like other America professional sports, has become a multibillion-dollar industry. The institution free agency had led to the escalation of payrolls and altered the make-up of rosters by dramatically reducing owners "Monopsony Power". The ability of large market clubs such as the New York Yankees to compete continually for the game's greatest prize illustrates the power of the dollar. This project illustrates the salary spent vs the World Series Champions and all other teams among the years from 1985 through 2015 and also shows the main pays and game strategies results on what really gives the winner a way to be the Champion.
 --------
 ## OBJECTIVES:
-    1. Compare the Total Salary Spent between the World Series Winners and “Losers”
+ #### 1. Compare the Total Salary Spent between the World Series Winners and “Losers”
   
-    2. Do the teams that spend the most, win the most?
+ #### 2. Do the teams that spend the most, win the most?
   
-    3. Evaluate spending parameters for the World Series Winners
+ #### 3. Evaluate spending parameters for the World Series Winners
   
-    4. Statistical commonalities between World Series Winners
+ #### 4. Statistical commonalities between World Series Winners
   
 ---------
 
@@ -94,7 +94,7 @@ $150MM + ($40MM * .79)
 
 > Internet source for csv files: http://kaggle.com/
   
->> CSV Files: https://github.com/Krla20/Project1/tree/main/Resources
+  > CSV Files: https://github.com/Krla20/Project1/tree/main/Resources
 
 > Working file: https://github.com/Krla20/Project1/blob/main/Final_Baseball_Analysis-Copy1.ipynb
 
