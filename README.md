@@ -1,18 +1,17 @@
 ***
-# Project1 - MLB ANALYSIS - HOW TO WIN IT ALL!?
+#                                                   Project1 - MLB ANALYSIS - HOW TO WIN IT ALL!?
 ***
-  ## * By: Andrey Tokarev, Karla Murphy, Jared Graeve, Simon Feinsilver
-***
-### Major League Baseball, like other America professional sports, has become a multibillion dollar industry. The institution free agency had led to the escalation of payrolls and altered the make-up of rosters by dramatically reducing owners "Monopsony Power". The ability of large market clubs suck as the New York Yankess to compete continually for the game's greatest prize illustrates the power of the dollar. This project illustrates the salary spent vs the World Series Champions and all other teams among the years from 1985 though 2015 and also shows the main pays and game strategies results on what really gives a the winner a way to be the Champion.
+### Major League Baseball, like other America professional sports, has become a multibillion-dollar industry. The institution free agency had led to the escalation of payrolls and altered the make-up of rosters by dramatically reducing owners "Monopsony Power". The ability of large market clubs such as the New York Yankees to compete continually for the game's greatest prize illustrates the power of the dollar. This project illustrates the salary spent vs the World Series Champions and all other teams among the years from 1985 through 2015 and also shows the main pays and game strategies results on what really gives the winner a way to be the Champion.
 --------
 ## OBJECTIVES:
-  *1. Compare the Total Salary Spent between the World Series Winners and “Losers”
+  * 1. Compare the Total Salary Spent between the World Series Winners and “Losers”
   
-  *2. Do the teams that spend the most, win the most?
+  * 2. Do the teams that spend the most, win the most?
   
-  *3. Evaluate spending parameters for the World Series Winners
+  * 3. Evaluate spending parameters for the World Series Winners
   
-  *4. Statistical commonalities between World Series Winners
+  * 4. Statistical commonalities between World Series Winners
+  
 ---------
 
 ### Data Collection
@@ -35,7 +34,7 @@
       
       * We can conclude:
         - Some time around 1990 spending became a formidable weapon in the pursuit of a championship
-        - By and large, teams that win the championship are spending more then teams that don’t win the championship
+        - By and large, teams that win the championship are spending more than teams that don’t win the championship
       
       * We cannot conclude:
         * We can’t definitively say that you HAVE to spend more than the league average to win a championship
@@ -61,10 +60,10 @@
           - Over half of the winners from 1985-2015 were not top 5 spenders
 
 -----------
- *3. Evaluate spencing parameters for the World Series Winners
+ *3. Evaluate spending parameters for the World Series Winners
  
  - On average, winners spent .79 STD’s above the mean for that year
-    - Spending Forumula: Spend Amount($) = Mean Salary + (STD * .79)
+    - Spending Formula: Spend Amount($) = Mean Salary + (STD * .79)
 Example:
 2021 Expected Mean Salary: $150MM
 2021 Expected STD: $40MM
@@ -88,8 +87,14 @@ $150MM + ($40MM * .79)
 -----------
 *4. Statistical commonalities between World Series Winners
 # NEED TO ADD UPDATED INFO
- 
 
+----------
+***
+Contributors: Andrey Tokarev, Karla Murphy, Jared Graeve, Simon Feinsilver
+Internet source: http://kaggle.com/
+  - CSV Files: https://github.com/Krla20/Project1/tree/main/Resources
+Working file: https://github.com/Krla20/Project1/blob/main/Final_Baseball_Analysis-Copy1.ipynb
+All graph images for all the project: https://github.com/Krla20/Project1/tree/main/Images
  
 
 
