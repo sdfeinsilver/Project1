@@ -90,7 +90,8 @@ $150MM + ($40MM * .79)
 - Are there statistical commonalities between World Series Champions?
 - Can we create a statistical profile of a typical World Series Champion- First we plotted each Champion in comparison with each other
 - We found that we were not able to glean much information from this.
-![alt_text](https://github.com/grav85/Project1-1/blob/main/Images/so_plot_by_WS_Champs.png)- Next, we plotted that same data and compared it to every team over the 30 year period
+![alt_text](https://github.com/grav85/Project1-1/blob/main/Images/so_plot_by_WS_Champs.png)
+- Next, we plotted that same data and compared it to every team over the 30 year period
 - Here we were able to see how teams compared to all teams and not just champions
 - This allowed us to make better observations
 ![alt_text](https://github.com/grav85/Project1-1/blob/main/Images/WS_Winner_SOAllowed_vs_30_years_breakdown.png)
