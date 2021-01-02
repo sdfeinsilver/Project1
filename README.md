@@ -93,21 +93,21 @@ $150MM + ($40MM * .79)
 ![alt_text](https://github.com/grav85/Project1-1/blob/main/Images/so_plot_by_WS_Champs.png)- Next, we plotted that same data and compared it to every team over the 30 year period
 - Here we were able to see how teams compared to all teams and not just champions
 - This allowed us to make better observations
-![alt_text](https://github.com/grav85/Project1-1/blob/main/Images/WS_Winner_SOAllowed_vs_30_years_breakdown.png)#### > * Conclusions:       * 
+![alt_text](https://github.com/grav85/Project1-1/blob/main/Images/WS_Winner_SOAllowed_vs_30_years_breakdown.png)
 
-* We can conclude:
+####  * Conclusions:
+
+        * We can conclude:
          	 - The offensive profile is evenly distributed. 
-- Hits and the ability to steal bases seem to be the best indicator of success.
-          
-- The most important conclusion seems to be that most champions tend to perform in the top 50% of all teams over the 30 years period in every statistical category.
-- It also appears that better pitching is a better indicator of success than offensive stats.
-- ERA and Hits allowed tend to be the best indicator of success.        
+           - Hits and the ability to steal bases seem to be the best indicator of success.
+           - The most important conclusion seems to be that most champions tend to perform in the top 50% of all teams over the 30 years period in every statistical category.
+           - It also appears that better pitching is a better indicator of success than offensive stats.
+           - ERA and Hits allowed tend to be the best indicator of success.        
 
-* We cannot conclude:
-
+      * We cannot conclude:
           	- Team of Destiny Syndrome
-- Ebbs and Flow
-- Cheating
+           - Ebbs and Flow
+           - Cheating
 ***
 > Contributors: Andrey Tokarev, Karla Murphy, Jared Graeve, Simon Feinsilver
 
