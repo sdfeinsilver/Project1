@@ -116,6 +116,6 @@ $150MM + ($40MM * .79)
   
   > CSV Files: https://github.com/Krla20/Project1/tree/main/Resources
 
-> Working file: https://github.com/Krla20/Project1/blob/main/Final_Baseball_Analysis-Copy1.ipynb
+> Working file: https://github.com/Krla20/Project1/blob/main/Final_Project_MLB_Analysis.ipynb
 
 > All graph images for all the project: https://github.com/Krla20/Project1/tree/main/Images
