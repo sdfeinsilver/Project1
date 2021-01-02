@@ -105,7 +105,7 @@ $150MM + ($40MM * .79)
            - It also appears that better pitching is a better indicator of success than offensive stats.
            - ERA and Hits allowed tend to be the best indicator of success.        
 
-      * We cannot conclude:
+        * We cannot conclude:
           	- Team of Destiny Syndrome
            - Ebbs and Flow
            - Cheating
